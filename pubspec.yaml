@@ -1,0 +1,8 @@
+name: core_transition_pages_example
+description: A sample Polymer application
+dependencies:
+  core_elements: any
+  polymer: '>=0.12.0 <0.13.0'
+transformers:
+- polymer:
+    entry_points: web/core_transition_pages_example.html
